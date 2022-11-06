@@ -17,6 +17,7 @@ Hospitals: navigation bar shows the home, Patients, and add patient tab , has th
 
 Patients: The navigation bar shows the tab EHR which gives a simplified view of the health record
 
+Please create a metamask account using the credentials in keys.json file.
 
 <div align ="center">
 
